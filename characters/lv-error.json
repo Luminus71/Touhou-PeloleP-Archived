@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				327,
+				-475
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "lv_error_up"
+		},
+		{
+			"offsets": [
+				-353,
+				-475
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "lv_error_loop"
+		},
+		{
+			"offsets": [
+				317,
+				-475
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "lv_error_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lv-gameOver",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

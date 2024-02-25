@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "REIMU_idle"
+		},
+		{
+			"offsets": [
+				6,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "REIMU_leftSING"
+		},
+		{
+			"offsets": [
+				4,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "REIMU_downSING"
+		},
+		{
+			"offsets": [
+				-17,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "REIMU_upSING"
+		},
+		{
+			"offsets": [
+				-15,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "REIMU_rightSING"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-2
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "REIMU_downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "REIMU_leftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "REIMU_downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "REIMU_upMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				11
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "REIMU_rightMISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "REIMU_ALTidle"
+		},
+		{
+			"offsets": [
+				6,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "REIMU_ALTleftSING"
+		},
+		{
+			"offsets": [
+				4,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "REIMU_ALTdownSING"
+		},
+		{
+			"offsets": [
+				-15,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "REIMU_ALTrightSING"
+		},
+		{
+			"offsets": [
+				-17,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "REIMU_ALTupSING"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/reimuFLY",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "reimu",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		69,
+		69
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1
+}

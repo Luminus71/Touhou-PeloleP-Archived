@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CIRNO_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CIRNO_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CIRNO_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CIRNO_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CIRNO_up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cirno",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cirno",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		247,
+		251
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

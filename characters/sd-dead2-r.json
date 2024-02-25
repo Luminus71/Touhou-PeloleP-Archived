@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "reimu-death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "reimu-loop-death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-225
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "reimu-confirm-death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SD-gameOver2-reimu",
+	"position": [
+		-440,
+		100
+	],
+	"healthicon": "reimu",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		69,
+		69
+	],
+	"camera_position": [
+		30,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

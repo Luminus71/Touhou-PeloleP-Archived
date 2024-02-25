@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "rumia",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Is it true, the human in front is of blueberry flavor?"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "reimu-player",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "Gone with you. You've pestered us enough."
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "reimu-player",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "Pardon my haziness, but weren't there two of you?"
+		}
+	]
+}

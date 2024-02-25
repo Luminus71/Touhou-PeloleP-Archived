@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "REMI_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "REMI_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "REMI_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "REMI_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "REMI_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "REMI_shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FP_gunRemi",
+	"position": [
+		20,
+		300
+	],
+	"healthicon": "patrolremi",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		93,
+		143
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

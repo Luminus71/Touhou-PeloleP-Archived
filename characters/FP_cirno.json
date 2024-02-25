@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CIRNO_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-42
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CIRNO_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CIRNO_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CIRNO_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CIRNO_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-42
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "CIRNO_missLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-41
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "CIRNO_missDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				36
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "CIRNO_missUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "CIRNO_missRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-4
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "CIRNO_dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FP_cirno",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "patrolcirno",
+	"flip_x": true,
+	"healthbar_colors": [
+		186,
+		208,
+		241
+	],
+	"camera_position": [
+		-50,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

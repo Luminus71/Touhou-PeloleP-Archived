@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "fumoDance-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "fumoDance-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fumo-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fumo-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fumo-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fumo-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				0
+			],
+			"anim": "bounce",
+			"fps": 24,
+			"name": "fumo-bounce",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gumo-reimuFumo",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "reimufumo",
+	"flip_x": false,
+	"healthbar_colors": [
+		190,
+		31,
+		32
+	],
+	"camera_position": [
+		0,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

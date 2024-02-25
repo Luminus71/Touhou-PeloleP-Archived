@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-150
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ski-death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				-150
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "ski-loop-death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				5
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "ski-confirm-death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SM-gameOver",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "ski",
+	"flip_x": true,
+	"healthbar_colors": [
+		151,
+		105,
+		213
+	],
+	"camera_position": [
+		-60,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

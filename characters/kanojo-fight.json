@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kanojo_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kanojo_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kanojo_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kanojo_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kanojo_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				73,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "kanojo_miss_left"
+		},
+		{
+			"offsets": [
+				20,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "kanojo_miss_down"
+		},
+		{
+			"offsets": [
+				-6,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "kanojo_miss_up"
+		},
+		{
+			"offsets": [
+				-15,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "kanojo_miss_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kanojo-fight",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "kanojo",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		61,
+		74
+	],
+	"camera_position": [
+		60,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KARESHI_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KARESHI_leftSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KARESHI_downSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KARESHI_upSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KARESHI_rightSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				32
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "KARESHI_leftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-15
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "KARESHI_downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				117
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "KARESHI_upMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "KARESHI_rightMISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kareshi",
+	"position": [
+		50,
+		350
+	],
+	"healthicon": "kareshi",
+	"flip_x": true,
+	"healthbar_colors": [
+		47,
+		135,
+		213
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

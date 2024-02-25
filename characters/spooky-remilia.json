@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "REMI_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "REMI_leftSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "REMI_downSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "REMI_upSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "REMI_rightSING",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spooky-remilia",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "remiP",
+	"flip_x": false,
+	"healthbar_colors": [
+		131,
+		147,
+		247
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

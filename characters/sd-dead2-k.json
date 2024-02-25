@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "kareshi-death"
+		},
+		{
+			"offsets": [
+				-54,
+				-19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "kareshi-loop-death"
+		},
+		{
+			"offsets": [
+				-54,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "kareshi-confirm-death"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SD-gameOver2-kareshi",
+	"position": [
+		-260,
+		225
+	],
+	"healthicon": "kareshi",
+	"flip_x": true,
+	"healthbar_colors": [
+		47,
+		135,
+		213
+	],
+	"camera_position": [
+		0,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

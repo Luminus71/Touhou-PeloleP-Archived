@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				7
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "kareshi_death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-69,
+				-86
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "kareshi_loop_death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-86
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "kareshi_confirm_death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kareshi-dead",
+	"position": [
+		-50,
+		250
+	],
+	"healthicon": "kareshi",
+	"flip_x": true,
+	"healthbar_colors": [
+		47,
+		135,
+		213
+	],
+	"camera_position": [
+		20,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

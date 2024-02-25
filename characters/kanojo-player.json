@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KANOJO_idle"
+		},
+		{
+			"offsets": [
+				38,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KANOJO_left"
+		},
+		{
+			"offsets": [
+				3,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KANOJO_down"
+		},
+		{
+			"offsets": [
+				19,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KANOJO_up"
+		},
+		{
+			"offsets": [
+				-26,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KANOJO_right"
+		},
+		{
+			"offsets": [
+				38,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "KANOJO_MISSleft"
+		},
+		{
+			"offsets": [
+				3,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "KANOJO_MISSdown"
+		},
+		{
+			"offsets": [
+				19,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "KANOJO_MISSup"
+		},
+		{
+			"offsets": [
+				-27,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "KANOJO_MISSright"
+		},
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "KANOJO_sad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kanojo-player",
+	"position": [
+		0,
+		190
+	],
+	"healthicon": "kanojo",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		61,
+		74
+	],
+	"camera_position": [
+		-300,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "REMI_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "REMI_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "REMI_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "REMI_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "REMI_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FP_remi",
+	"position": [
+		20,
+		300
+	],
+	"healthicon": "patrolremi",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		93,
+		143
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ski_idle"
+		},
+		{
+			"offsets": [
+				39,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ski_left"
+		},
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ski_down"
+		},
+		{
+			"offsets": [
+				-1,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ski_up"
+		},
+		{
+			"offsets": [
+				-1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ski_right"
+		},
+		{
+			"offsets": [
+				42,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "ski_miss_left"
+		},
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "ski_miss_down"
+		},
+		{
+			"offsets": [
+				0,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "ski_miss_up"
+		},
+		{
+			"offsets": [
+				3,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "ski_miss_right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SM_ski",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "ski",
+	"flip_x": true,
+	"healthbar_colors": [
+		151,
+		105,
+		213
+	],
+	"camera_position": [
+		200,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MARISA_idle"
+		},
+		{
+			"offsets": [
+				8,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MARISA_left"
+		},
+		{
+			"offsets": [
+				5,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MARISA_down"
+		},
+		{
+			"offsets": [
+				14,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MARISA_up"
+		},
+		{
+			"offsets": [
+				2,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MARISA_right"
+		},
+		{
+			"offsets": [
+				8,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MARISA_MISSleft"
+		},
+		{
+			"offsets": [
+				5,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MARISA_MISSdown"
+		},
+		{
+			"offsets": [
+				14,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MARISA_MISSup"
+		},
+		{
+			"offsets": [
+				2,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MARISA_MISSright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marisa",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "marisa",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		244,
+		99
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

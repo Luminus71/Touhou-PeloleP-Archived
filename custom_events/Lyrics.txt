@@ -1,0 +1,9 @@
+Value 1: da text
+Value 2: da color code
+
+example: 
+
+2hu is peak
+FF0000
+
+result: text sayin "2hu is peak" in red colors!!1

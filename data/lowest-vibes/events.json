@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Song Name",
+						"",
+						"on"
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Play Animation",
+						"TUNNELenter",
+						""
+					]
+				]
+			],
+			[
+				59400,
+				[
+					[
+						"Play Animation",
+						"lightON",
+						""
+					]
+				]
+			],
+			[
+				78600,
+				[
+					[
+						"Play Animation",
+						"lightOFF",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Play Animation",
+						"TUNNELexit",
+						""
+					]
+				]
+			]
+		]
+	}
+}

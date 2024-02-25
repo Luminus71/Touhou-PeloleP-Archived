@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FLAN_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FLAN_leftSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FLAN_downSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FLAN_upSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FLAN_rightSING",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spooky-flandre",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "flanP",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		221,
+		33
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

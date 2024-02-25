@@ -1,0 +1,321 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Song Name",
+						"",
+						"on"
+					]
+				]
+			],
+			[
+				27234.0425531915,
+				[
+					[
+						"Play Animation",
+						"fairyBlue1",
+						""
+					]
+				]
+			],
+			[
+				28085.1063829787,
+				[
+					[
+						"Play Animation",
+						"fairyBlue2",
+						""
+					]
+				]
+			],
+			[
+				34893.6170212766,
+				[
+					[
+						"Play Animation",
+						"fairyPink",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Play Animation",
+						"fairyBlue1",
+						""
+					]
+				]
+			],
+			[
+				45957.4468085107,
+				[
+					[
+						"Play Animation",
+						"fairyPink",
+						""
+					]
+				]
+			],
+			[
+				50212.7659574468,
+				[
+					[
+						"Play Animation",
+						"fairyBlue2",
+						""
+					]
+				]
+			],
+			[
+				124255.319148936,
+				[
+					[
+						"Change Character",
+						"1",
+						"rumia"
+					],
+					[
+						"Play Animation",
+						"rumiaON",
+						""
+					]
+				]
+			],
+			[
+				125957.446808511,
+				[
+					[
+						"Change Character",
+						"GF",
+						"ALTreimuFLY"
+					],
+					[
+						"Change Character",
+						"0",
+						"kareshiOrb"
+					]
+				]
+			],
+			[
+				134024.673699267,
+				[
+					[
+						"Icon Change",
+						"",
+						"reimu"
+					]
+				]
+			],
+			[
+				146125.514035402,
+				[
+					[
+						"Icon Change",
+						"",
+						"kareshi"
+					]
+				]
+			],
+			[
+				154192.740926158,
+				[
+					[
+						"Icon Change",
+						"",
+						"reimu"
+					]
+				]
+			],
+			[
+				156209.547648847,
+				[
+					[
+						"Spell",
+						"",
+						"on"
+					],
+					[
+						"Spell Card",
+						"",
+						"card1"
+					]
+				]
+			],
+			[
+				162259.967816914,
+				[
+					[
+						"Icon Change",
+						"",
+						"kareshi"
+					]
+				]
+			],
+			[
+				170327.19470767,
+				[
+					[
+						"Icon Change",
+						"",
+						"reimu"
+					]
+				]
+			],
+			[
+				174360.808153049,
+				[
+					[
+						"Icon Change",
+						"",
+						"kareshi"
+					]
+				]
+			],
+			[
+				176377.614875738,
+				[
+					[
+						"Icon Change",
+						"",
+						"reimu"
+					]
+				]
+			],
+			[
+				182428.035043805,
+				[
+					[
+						"Icon Change",
+						"",
+						"kareshi"
+					]
+				]
+			],
+			[
+				184444.841766494,
+				[
+					[
+						"Icon Change",
+						"",
+						"reimu"
+					]
+				]
+			],
+			[
+				189234.75773288,
+				[
+					[
+						"Spell Card",
+						"",
+						"end-card1"
+					],
+					[
+						"Spell",
+						"",
+						"off"
+					]
+				]
+			],
+			[
+				198562.488825317,
+				[
+					[
+						"Icon Change",
+						"",
+						"kareshi"
+					]
+				]
+			],
+			[
+				204612.908993385,
+				[
+					[
+						"Spell",
+						"",
+						"on"
+					],
+					[
+						"Spell Card",
+						"",
+						"card2"
+					]
+				]
+			],
+			[
+				218730.556052208,
+				[
+					[
+						"Icon Change",
+						"",
+						"reimu"
+					]
+				]
+			],
+			[
+				222764.169497586,
+				[
+					[
+						"Icon Change",
+						"",
+						"kareshi"
+					]
+				]
+			],
+			[
+				224780.976220275,
+				[
+					[
+						"Icon Change",
+						"",
+						"reimu"
+					]
+				]
+			],
+			[
+				230831.396388342,
+				[
+					[
+						"Icon Change",
+						"",
+						"reimu"
+					]
+				]
+			],
+			[
+				234865.009833721,
+				[
+					[
+						"Icon Change",
+						"",
+						"kareshi"
+					]
+				]
+			],
+			[
+				238394.421598427,
+				[
+					[
+						"Spell Card",
+						"",
+						"end-card2"
+					]
+				]
+			],
+			[
+				238898.623279099,
+				[
+					[
+						"Spell",
+						"",
+						"off"
+					]
+				]
+			]
+		]
+	}
+}

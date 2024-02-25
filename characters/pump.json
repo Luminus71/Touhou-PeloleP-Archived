@@ -1,0 +1,180 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PUMP_leftSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PUMP_downSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PUMP_upSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PUMP_rightSING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "PUMP_leftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-8
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "PUMP_downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				57
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "PUMP_upMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				-17
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "PUMP_rightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-4
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "PUMP_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				14
+			],
+			"anim": "danceLeft",
+			"fps": 18,
+			"name": "PUMP_dance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				14
+			],
+			"anim": "danceRight",
+			"fps": 18,
+			"name": "PUMP_dance",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"offsets": [
+				-67,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "isDA",
+			"loop": false,
+			"name": "PUMP_IS-DA"
+		},
+		{
+			"offsets": [
+				-67,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "spookyMONTH",
+			"loop": false,
+			"name": "PUMP_SPOOKY-MONTH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pump",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "pump",
+	"flip_x": false,
+	"healthbar_colors": [
+		192,
+		107,
+		73
+	],
+	"camera_position": [
+		-240,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

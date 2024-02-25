@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "pensive",
+			"text": "Night breeze always feels good.",
+			"boxState": "normal",
+			"portrait": "reimu-enemy",
+			"speed": 0,
+			"sound": ""
+		},
+		{
+			"expression": "sweat",
+			"text": "This forest gives me deja vu.",
+			"boxState": "normal",
+			"portrait": "reimu-enemy",
+			"speed": 0,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Bep.",
+			"boxState": "normal",
+			"portrait": "kareshi",
+			"speed": 0,
+			"sound": ""
+		},
+		{
+			"expression": "pensive",
+			"text": "I don't see as many evil spirits around tonight.",
+			"boxState": "normal",
+			"portrait": "reimu-enemy",
+			"speed": 0,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "Let's cool off with a duet, would you agree?",
+			"boxState": "normal",
+			"portrait": "reimu-enemy",
+			"speed": 0,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Skaboop Skee!",
+			"boxState": "normal",
+			"portrait": "kareshi",
+			"speed": 0,
+			"sound": ""
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "REIMU_left"
+		},
+		{
+			"offsets": [
+				5,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "REIMU_down"
+		},
+		{
+			"offsets": [
+				6,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "REIMU_up"
+		},
+		{
+			"offsets": [
+				-5,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "REIMU_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "REIMU_idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/reimuENEMY",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "reimu",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		69,
+		69
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,179 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				28,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SKID_leftSING"
+		},
+		{
+			"offsets": [
+				-9,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SKID_downSING"
+		},
+		{
+			"offsets": [
+				-14,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SKID_upSING"
+		},
+		{
+			"offsets": [
+				-78,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SKID_rightSING"
+		},
+		{
+			"offsets": [
+				28,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "SKID_leftMISS"
+		},
+		{
+			"offsets": [
+				-9,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "SKID_downMISS"
+		},
+		{
+			"offsets": [
+				-14,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "SKID_upMISS"
+		},
+		{
+			"offsets": [
+				-78,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "SKID_rightMISS"
+		},
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "SKID_idle"
+		},
+		{
+			"offsets": [
+				-22,
+				-19
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "danceRight",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "SKID_dance"
+		},
+		{
+			"offsets": [
+				-22,
+				-20
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SKID_dance"
+		},
+		{
+			"offsets": [
+				-14,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "isDA",
+			"loop": false,
+			"name": "SKID_IS-DA"
+		},
+		{
+			"offsets": [
+				-14,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "spookyMONTH",
+			"loop": false,
+			"name": "SKID_SPOOKY-MONTH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skid",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "skid",
+	"flip_x": true,
+	"healthbar_colors": [
+		218,
+		218,
+		227
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
