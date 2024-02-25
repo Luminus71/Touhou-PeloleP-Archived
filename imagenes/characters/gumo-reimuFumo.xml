@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gumo-reimuFumo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fumo-bounce0000" x="0" y="0" width="324" height="387" frameX="0" frameY="-51" frameWidth="324" frameHeight="441"/>
+	<SubTexture name="fumo-bounce0001" x="0" y="0" width="324" height="387" frameX="0" frameY="-51" frameWidth="324" frameHeight="441"/>
+	<SubTexture name="fumo-bounce0002" x="324" y="0" width="297" height="429" frameX="-14" frameY="-12" frameWidth="324" frameHeight="441"/>
+	<SubTexture name="fumo-bounce0003" x="324" y="0" width="297" height="429" frameX="-14" frameY="-12" frameWidth="324" frameHeight="441"/>
+	<SubTexture name="fumo-bounce0004" x="621" y="0" width="283" height="441" frameX="-21" frameY="0" frameWidth="324" frameHeight="441"/>
+	<SubTexture name="fumo-bounce0005" x="621" y="0" width="283" height="441" frameX="-21" frameY="0" frameWidth="324" frameHeight="441"/>
+	<SubTexture name="fumo-down0000" x="904" y="0" width="356" height="380" frameX="0" frameY="-15" frameWidth="356" frameHeight="396"/>
+	<SubTexture name="fumo-down0001" x="904" y="0" width="356" height="380" frameX="0" frameY="-15" frameWidth="356" frameHeight="396"/>
+	<SubTexture name="fumo-down0002" x="1260" y="0" width="328" height="396" frameX="-15" frameY="0" frameWidth="356" frameHeight="396"/>
+	<SubTexture name="fumo-down0003" x="1260" y="0" width="328" height="396" frameX="-15" frameY="0" frameWidth="356" frameHeight="396"/>
+	<SubTexture name="fumo-left0000" x="1588" y="0" width="352" height="514" frameX="0" frameY="0" frameWidth="356" frameHeight="514"/>
+	<SubTexture name="fumo-left0001" x="1588" y="0" width="352" height="514" frameX="0" frameY="0" frameWidth="356" frameHeight="514"/>
+	<SubTexture name="fumo-left0002" x="0" y="514" width="318" height="487" frameX="-38" frameY="-13" frameWidth="356" frameHeight="514"/>
+	<SubTexture name="fumo-left0003" x="0" y="514" width="318" height="487" frameX="-38" frameY="-13" frameWidth="356" frameHeight="514"/>
+	<SubTexture name="fumo-right0000" x="318" y="514" width="383" height="487"/>
+	<SubTexture name="fumo-right0001" x="318" y="514" width="383" height="487"/>
+	<SubTexture name="fumo-right0002" x="701" y="514" width="344" height="478" frameX="-1" frameY="-3" frameWidth="383" frameHeight="487"/>
+	<SubTexture name="fumo-right0003" x="701" y="514" width="344" height="478" frameX="-1" frameY="-3" frameWidth="383" frameHeight="487"/>
+	<SubTexture name="fumo-up0000" x="1045" y="514" width="243" height="514" frameX="-13" frameY="0" frameWidth="269" frameHeight="514"/>
+	<SubTexture name="fumo-up0001" x="1045" y="514" width="243" height="514" frameX="-13" frameY="0" frameWidth="269" frameHeight="514"/>
+	<SubTexture name="fumo-up0002" x="1288" y="514" width="269" height="487" frameX="0" frameY="-26" frameWidth="269" frameHeight="514"/>
+	<SubTexture name="fumo-up0003" x="1288" y="514" width="269" height="487" frameX="0" frameY="-26" frameWidth="269" frameHeight="514"/>
+	<SubTexture name="fumoDance-left0000" x="1557" y="514" width="166" height="441" frameX="-30" frameY="0" frameWidth="284" frameHeight="441"/>
+	<SubTexture name="fumoDance-left0001" x="1557" y="514" width="166" height="441" frameX="-30" frameY="0" frameWidth="284" frameHeight="441"/>
+	<SubTexture name="fumoDance-left0002" x="1723" y="514" width="87" height="441" frameX="-87" frameY="0" frameWidth="284" frameHeight="441"/>
+	<SubTexture name="fumoDance-left0003" x="1723" y="514" width="87" height="441" frameX="-87" frameY="0" frameWidth="284" frameHeight="441"/>
+	<SubTexture name="fumoDance-left0004" x="0" y="1028" width="244" height="441" frameX="-16" frameY="0" frameWidth="284" frameHeight="441"/>
+	<SubTexture name="fumoDance-left0005" x="0" y="1028" width="244" height="441" frameX="-16" frameY="0" frameWidth="284" frameHeight="441"/>
+	<SubTexture name="fumoDance-left0006" x="244" y="1028" width="281" height="441" frameX="0" frameY="0" frameWidth="284" frameHeight="441"/>
+	<SubTexture name="fumoDance-left0007" x="244" y="1028" width="281" height="441" frameX="0" frameY="0" frameWidth="284" frameHeight="441"/>
+	<SubTexture name="fumoDance-left0008" x="525" y="1028" width="284" height="441"/>
+	<SubTexture name="fumoDance-left0009" x="525" y="1028" width="284" height="441"/>
+	<SubTexture name="fumoDance-left0010" x="525" y="1028" width="284" height="441"/>
+	<SubTexture name="fumoDance-left0011" x="525" y="1028" width="284" height="441"/>
+	<SubTexture name="fumoDance-right0000" x="809" y="1028" width="211" height="441" frameX="-50" frameY="0" frameWidth="277" frameHeight="441"/>
+	<SubTexture name="fumoDance-right0001" x="809" y="1028" width="211" height="441" frameX="-50" frameY="0" frameWidth="277" frameHeight="441"/>
+	<SubTexture name="fumoDance-right0002" x="1020" y="1028" width="62" height="441" frameX="-117" frameY="0" frameWidth="277" frameHeight="441"/>
+	<SubTexture name="fumoDance-right0003" x="1020" y="1028" width="62" height="441" frameX="-117" frameY="0" frameWidth="277" frameHeight="441"/>
+	<SubTexture name="fumoDance-right0004" x="1082" y="1028" width="236" height="441" frameX="-25" frameY="0" frameWidth="277" frameHeight="441"/>
+	<SubTexture name="fumoDance-right0005" x="1082" y="1028" width="236" height="441" frameX="-25" frameY="0" frameWidth="277" frameHeight="441"/>
+	<SubTexture name="fumoDance-right0006" x="1318" y="1028" width="270" height="441" frameX="-5" frameY="0" frameWidth="277" frameHeight="441"/>
+	<SubTexture name="fumoDance-right0007" x="1318" y="1028" width="270" height="441" frameX="-5" frameY="0" frameWidth="277" frameHeight="441"/>
+	<SubTexture name="fumoDance-right0008" x="1588" y="1028" width="277" height="441"/>
+	<SubTexture name="fumoDance-right0009" x="1588" y="1028" width="277" height="441"/>
+	<SubTexture name="fumoDance-right0010" x="1588" y="1028" width="277" height="441"/>
+	<SubTexture name="fumoDance-right0011" x="1588" y="1028" width="277" height="441"/>
+</TextureAtlas>

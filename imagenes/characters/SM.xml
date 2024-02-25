@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SM.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SM_down0000" x="0" y="0" width="359" height="270" frameX="0" frameY="-2" frameWidth="359" frameHeight="272"/>
+	<SubTexture name="SM_down0001" x="0" y="0" width="359" height="270" frameX="0" frameY="-2" frameWidth="359" frameHeight="272"/>
+	<SubTexture name="SM_down0002" x="359" y="0" width="357" height="272" frameX="-2" frameY="0" frameWidth="359" frameHeight="272"/>
+	<SubTexture name="SM_down0003" x="359" y="0" width="357" height="272" frameX="-2" frameY="0" frameWidth="359" frameHeight="272"/>
+	<SubTexture name="SM_idle0000" x="716" y="0" width="341" height="324"/>
+	<SubTexture name="SM_idle0001" x="716" y="0" width="341" height="324"/>
+	<SubTexture name="SM_idle0002" x="1057" y="0" width="340" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0003" x="1057" y="0" width="340" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0004" x="1397" y="0" width="340" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0005" x="1397" y="0" width="340" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0006" x="0" y="324" width="340" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0007" x="0" y="324" width="340" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0008" x="340" y="324" width="339" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0009" x="340" y="324" width="339" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0010" x="340" y="324" width="339" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_idle0011" x="340" y="324" width="339" height="324" frameX="-1" frameY="0" frameWidth="341" frameHeight="324"/>
+	<SubTexture name="SM_left0000" x="679" y="324" width="329" height="359"/>
+	<SubTexture name="SM_left0001" x="679" y="324" width="329" height="359"/>
+	<SubTexture name="SM_left0002" x="1008" y="324" width="323" height="355" frameX="-5" frameY="-4" frameWidth="329" frameHeight="359"/>
+	<SubTexture name="SM_left0003" x="1008" y="324" width="323" height="355" frameX="-5" frameY="-4" frameWidth="329" frameHeight="359"/>
+	<SubTexture name="SM_right0000" x="1331" y="324" width="427" height="331" frameX="-1" frameY="0" frameWidth="428" frameHeight="331"/>
+	<SubTexture name="SM_right0001" x="1331" y="324" width="427" height="331" frameX="-1" frameY="0" frameWidth="428" frameHeight="331"/>
+	<SubTexture name="SM_right0002" x="0" y="683" width="422" height="328" frameX="0" frameY="-3" frameWidth="428" frameHeight="331"/>
+	<SubTexture name="SM_right0003" x="0" y="683" width="422" height="328" frameX="0" frameY="-3" frameWidth="428" frameHeight="331"/>
+	<SubTexture name="SM_up0000" x="422" y="683" width="358" height="385" frameX="0" frameY="0" frameWidth="362" frameHeight="385"/>
+	<SubTexture name="SM_up0001" x="422" y="683" width="358" height="385" frameX="0" frameY="0" frameWidth="362" frameHeight="385"/>
+	<SubTexture name="SM_up0002" x="780" y="683" width="362" height="376" frameX="0" frameY="-9" frameWidth="362" frameHeight="385"/>
+	<SubTexture name="SM_up0003" x="780" y="683" width="362" height="376" frameX="0" frameY="-9" frameWidth="362" frameHeight="385"/>
+</TextureAtlas>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="genso-gameOver.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skid-confirm-death0000" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0001" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0002" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0003" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0004" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0005" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0006" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0007" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0008" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0009" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0010" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0011" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0012" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0013" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0014" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0015" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0016" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0017" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0018" x="0" y="0" width="786" height="279"/>
+	<SubTexture name="skid-confirm-death0019" x="786" y="0" width="786" height="279"/>
+	<SubTexture name="skid-death0000" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0001" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0002" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0003" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0004" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0005" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0006" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0007" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0008" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0009" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0010" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0011" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0012" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0013" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0014" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0015" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0016" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0017" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0018" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0019" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0020" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0021" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0022" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0023" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0024" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0025" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0026" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0027" x="0" y="1139" width="1084" height="860"/>
+	<SubTexture name="skid-death0028" x="0" y="279" width="1084" height="860"/>
+	<SubTexture name="skid-die0000" x="0" y="1139" width="1084" height="860"/>
+</TextureAtlas>

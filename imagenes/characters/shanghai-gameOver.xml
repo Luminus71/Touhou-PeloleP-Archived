@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shanghai-gameOver.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kanojo-confirm-death0000" x="0" y="0" width="404" height="593" frameX="-81" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0001" x="0" y="0" width="404" height="593" frameX="-81" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0002" x="404" y="0" width="429" height="593" frameX="-67" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0003" x="404" y="0" width="429" height="593" frameX="-67" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0004" x="833" y="0" width="453" height="593" frameX="-55" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0005" x="833" y="0" width="453" height="593" frameX="-55" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0006" x="1286" y="0" width="475" height="593" frameX="-44" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0007" x="1286" y="0" width="475" height="593" frameX="-44" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0008" x="1761" y="0" width="495" height="593" frameX="-34" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0009" x="1761" y="0" width="495" height="593" frameX="-34" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0010" x="2256" y="0" width="511" height="593" frameX="-26" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0011" x="2256" y="0" width="511" height="593" frameX="-26" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0012" x="2767" y="0" width="524" height="593" frameX="-20" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0013" x="2767" y="0" width="524" height="593" frameX="-20" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0014" x="3291" y="0" width="535" height="593" frameX="-14" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0015" x="3291" y="0" width="535" height="593" frameX="-14" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0016" x="0" y="593" width="543" height="593" frameX="-10" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0017" x="0" y="593" width="543" height="593" frameX="-10" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0018" x="543" y="593" width="551" height="593" frameX="-6" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0019" x="543" y="593" width="551" height="593" frameX="-6" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0020" x="1094" y="593" width="553" height="593" frameX="-5" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0021" x="1094" y="593" width="553" height="593" frameX="-5" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0022" x="1647" y="593" width="559" height="593" frameX="-2" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0023" x="1647" y="593" width="559" height="593" frameX="-2" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0024" x="2206" y="593" width="561" height="593" frameX="-1" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0025" x="2206" y="593" width="561" height="593" frameX="-1" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0026" x="2767" y="593" width="561" height="593" frameX="-1" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0027" x="2767" y="593" width="561" height="593" frameX="-1" frameY="0" frameWidth="563" frameHeight="593"/>
+	<SubTexture name="kanojo-confirm-death0028" x="3328" y="593" width="563" height="593"/>
+	<SubTexture name="kanojo-confirm-death0029" x="3328" y="593" width="563" height="593"/>
+	<SubTexture name="kanojo-confirm-death0030" x="0" y="1186" width="563" height="593"/>
+	<SubTexture name="kanojo-confirm-death0031" x="0" y="1186" width="563" height="593"/>
+	<SubTexture name="kanojo-confirm-death0032" x="0" y="1186" width="563" height="593"/>
+	<SubTexture name="kanojo-death0000" x="563" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0001" x="563" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0002" x="563" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0003" x="563" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0004" x="563" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0005" x="563" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0006" x="563" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0007" x="563" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0008" x="934" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0009" x="934" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0010" x="934" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0011" x="934" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0012" x="934" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0013" x="934" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0014" x="934" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0015" x="934" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0016" x="1305" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0017" x="1305" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0018" x="1305" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0019" x="1305" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0020" x="1305" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0021" x="1305" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0022" x="1305" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0023" x="1305" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0024" x="1676" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0025" x="1676" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0026" x="1676" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0027" x="1676" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0028" x="1676" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0029" x="1676" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0030" x="1676" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0031" x="1676" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0032" x="2047" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0033" x="2047" y="1186" width="371" height="562" frameX="-14" frameY="-14" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0034" x="2418" y="1186" width="379" height="570" frameX="-12" frameY="-12" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0035" x="2418" y="1186" width="379" height="570" frameX="-12" frameY="-12" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0036" x="2797" y="1186" width="381" height="572" frameX="-11" frameY="-11" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0037" x="2797" y="1186" width="381" height="572" frameX="-11" frameY="-11" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0038" x="3178" y="1186" width="383" height="574" frameX="-10" frameY="-10" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0039" x="3178" y="1186" width="383" height="574" frameX="-10" frameY="-10" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0040" x="3561" y="1186" width="385" height="576" frameX="-9" frameY="-9" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0041" x="3561" y="1186" width="385" height="576" frameX="-9" frameY="-9" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0042" x="0" y="1779" width="387" height="578" frameX="-8" frameY="-8" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0043" x="0" y="1779" width="387" height="578" frameX="-8" frameY="-8" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0044" x="387" y="1779" width="389" height="580" frameX="-7" frameY="-7" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0045" x="387" y="1779" width="389" height="580" frameX="-7" frameY="-7" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0046" x="776" y="1779" width="391" height="582" frameX="-6" frameY="-6" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0047" x="776" y="1779" width="391" height="582" frameX="-6" frameY="-6" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0048" x="1167" y="1779" width="393" height="584" frameX="-5" frameY="-5" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0049" x="1167" y="1779" width="393" height="584" frameX="-5" frameY="-5" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0050" x="1560" y="1779" width="395" height="586" frameX="-4" frameY="-4" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0051" x="1560" y="1779" width="395" height="586" frameX="-4" frameY="-4" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0052" x="1955" y="1779" width="397" height="588" frameX="-3" frameY="-3" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0053" x="1955" y="1779" width="397" height="588" frameX="-3" frameY="-3" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0054" x="2352" y="1779" width="401" height="592" frameX="-1" frameY="-1" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0055" x="2352" y="1779" width="401" height="592" frameX="-1" frameY="-1" frameWidth="403" frameHeight="594"/>
+	<SubTexture name="kanojo-death0056" x="2753" y="1779" width="403" height="594"/>
+	<SubTexture name="kanojo-loop-death0000" x="2753" y="1779" width="403" height="594"/>
+</TextureAtlas>

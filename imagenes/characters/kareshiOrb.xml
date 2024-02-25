@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kareshiOrb.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KARESHI_idle0000" x="0" y="0" width="288" height="459" frameX="0" frameY="-1" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0001" x="0" y="0" width="288" height="459" frameX="0" frameY="-1" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0002" x="288" y="0" width="288" height="460" frameX="0" frameY="0" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0003" x="288" y="0" width="288" height="460" frameX="0" frameY="0" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0004" x="576" y="0" width="288" height="461" frameX="0" frameY="0" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0005" x="576" y="0" width="288" height="461" frameX="0" frameY="0" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0006" x="864" y="0" width="285" height="462" frameX="-1" frameY="-1" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0007" x="864" y="0" width="285" height="462" frameX="-1" frameY="-1" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0008" x="1149" y="0" width="284" height="462" frameX="-1" frameY="-1" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0009" x="1149" y="0" width="284" height="462" frameX="-1" frameY="-1" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0010" x="1149" y="0" width="284" height="462" frameX="-1" frameY="-1" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_idle0011" x="1149" y="0" width="284" height="462" frameX="-1" frameY="-1" frameWidth="288" frameHeight="463"/>
+	<SubTexture name="KARESHI_missDown0000" x="1433" y="0" width="305" height="458" frameX="0" frameY="-2" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0001" x="1433" y="0" width="305" height="458" frameX="0" frameY="-2" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0002" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0003" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0004" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0005" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0006" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0007" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0008" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0009" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0010" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missDown0011" x="1738" y="0" width="300" height="460" frameX="-4" frameY="0" frameWidth="305" frameHeight="460"/>
+	<SubTexture name="KARESHI_missLeft0000" x="2038" y="0" width="323" height="479" frameX="-2" frameY="0" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0001" x="2038" y="0" width="323" height="479" frameX="-2" frameY="0" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0002" x="2361" y="0" width="308" height="475" frameX="-17" frameY="-4" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0003" x="2361" y="0" width="308" height="475" frameX="-17" frameY="-4" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0004" x="2669" y="0" width="312" height="477" frameX="-14" frameY="-2" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0005" x="2669" y="0" width="312" height="477" frameX="-14" frameY="-2" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0006" x="2981" y="0" width="326" height="479"/>
+	<SubTexture name="KARESHI_missLeft0007" x="2981" y="0" width="326" height="479"/>
+	<SubTexture name="KARESHI_missLeft0008" x="3307" y="0" width="300" height="477" frameX="-26" frameY="-2" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0009" x="3307" y="0" width="300" height="477" frameX="-26" frameY="-2" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0010" x="3307" y="0" width="300" height="477" frameX="-26" frameY="-2" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missLeft0011" x="3307" y="0" width="300" height="477" frameX="-26" frameY="-2" frameWidth="326" frameHeight="479"/>
+	<SubTexture name="KARESHI_missRight0000" x="3607" y="0" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0001" x="3607" y="0" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0002" x="0" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0003" x="0" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0004" x="0" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0005" x="0" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0006" x="315" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0007" x="315" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0008" x="315" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0009" x="315" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0010" x="315" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missRight0011" x="315" y="479" width="315" height="468"/>
+	<SubTexture name="KARESHI_missUp0000" x="630" y="479" width="329" height="502"/>
+	<SubTexture name="KARESHI_missUp0001" x="630" y="479" width="329" height="502"/>
+	<SubTexture name="KARESHI_missUp0002" x="959" y="479" width="326" height="496" frameX="-2" frameY="-6" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0003" x="959" y="479" width="326" height="496" frameX="-2" frameY="-6" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0004" x="1285" y="479" width="322" height="489" frameX="-2" frameY="-13" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0005" x="1285" y="479" width="322" height="489" frameX="-2" frameY="-13" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0006" x="1607" y="479" width="325" height="495" frameX="-2" frameY="-7" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0007" x="1607" y="479" width="325" height="495" frameX="-2" frameY="-7" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0008" x="1607" y="479" width="325" height="495" frameX="-2" frameY="-7" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0009" x="1607" y="479" width="325" height="495" frameX="-2" frameY="-7" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0010" x="1607" y="479" width="325" height="495" frameX="-2" frameY="-7" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_missUp0011" x="1607" y="479" width="325" height="495" frameX="-2" frameY="-7" frameWidth="329" frameHeight="502"/>
+	<SubTexture name="KARESHI_singDown0000" x="1932" y="479" width="305" height="458" frameX="0" frameY="-4" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0001" x="1932" y="479" width="305" height="458" frameX="0" frameY="-4" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0002" x="2237" y="479" width="306" height="459" frameX="0" frameY="-3" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0003" x="2237" y="479" width="306" height="459" frameX="0" frameY="-3" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0004" x="2543" y="479" width="305" height="462" frameX="-1" frameY="0" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0005" x="2543" y="479" width="305" height="462" frameX="-1" frameY="0" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0006" x="2848" y="479" width="302" height="460" frameX="-3" frameY="-2" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0007" x="2848" y="479" width="302" height="460" frameX="-3" frameY="-2" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0008" x="3150" y="479" width="300" height="460" frameX="-4" frameY="-2" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0009" x="3150" y="479" width="300" height="460" frameX="-4" frameY="-2" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0010" x="3150" y="479" width="300" height="460" frameX="-4" frameY="-2" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singDown0011" x="3150" y="479" width="300" height="460" frameX="-4" frameY="-2" frameWidth="306" frameHeight="462"/>
+	<SubTexture name="KARESHI_singLeft0000" x="3450" y="479" width="303" height="479" frameX="0" frameY="-2" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0001" x="3450" y="479" width="303" height="479" frameX="0" frameY="-2" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0002" x="3753" y="479" width="304" height="481" frameX="-1" frameY="0" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0003" x="3753" y="479" width="304" height="481" frameX="-1" frameY="0" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0004" x="0" y="981" width="302" height="478" frameX="-2" frameY="-3" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0005" x="0" y="981" width="302" height="478" frameX="-2" frameY="-3" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0006" x="302" y="981" width="300" height="477" frameX="-4" frameY="-4" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0007" x="302" y="981" width="300" height="477" frameX="-4" frameY="-4" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0008" x="602" y="981" width="300" height="477" frameX="-4" frameY="-4" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0009" x="602" y="981" width="300" height="477" frameX="-4" frameY="-4" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0010" x="602" y="981" width="300" height="477" frameX="-4" frameY="-4" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singLeft0011" x="602" y="981" width="300" height="477" frameX="-4" frameY="-4" frameWidth="305" frameHeight="481"/>
+	<SubTexture name="KARESHI_singRight0000" x="902" y="981" width="322" height="471" frameX="0" frameY="-1" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0001" x="902" y="981" width="322" height="471" frameX="0" frameY="-1" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0002" x="1224" y="981" width="322" height="472" frameX="-1" frameY="0" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0003" x="1224" y="981" width="322" height="472" frameX="-1" frameY="0" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0004" x="1546" y="981" width="319" height="469" frameX="-1" frameY="-3" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0005" x="1546" y="981" width="319" height="469" frameX="-1" frameY="-3" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0006" x="1865" y="981" width="315" height="468" frameX="-2" frameY="-4" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0007" x="1865" y="981" width="315" height="468" frameX="-2" frameY="-4" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0008" x="2180" y="981" width="315" height="468" frameX="-2" frameY="-4" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0009" x="2180" y="981" width="315" height="468" frameX="-2" frameY="-4" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0010" x="2180" y="981" width="315" height="468" frameX="-2" frameY="-4" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singRight0011" x="2180" y="981" width="315" height="468" frameX="-2" frameY="-4" frameWidth="323" frameHeight="472"/>
+	<SubTexture name="KARESHI_singUp0000" x="2495" y="981" width="329" height="502" frameX="0" frameY="-1" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0001" x="2495" y="981" width="329" height="502" frameX="0" frameY="-1" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0002" x="2824" y="981" width="330" height="503" frameX="-1" frameY="0" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0003" x="2824" y="981" width="330" height="503" frameX="-1" frameY="0" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0004" x="3154" y="981" width="327" height="499" frameX="-1" frameY="-4" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0005" x="3154" y="981" width="327" height="499" frameX="-1" frameY="-4" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0006" x="3481" y="981" width="325" height="496" frameX="-2" frameY="-7" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0007" x="3481" y="981" width="325" height="496" frameX="-2" frameY="-7" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0008" x="0" y="1484" width="325" height="495" frameX="-2" frameY="-8" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0009" x="0" y="1484" width="325" height="495" frameX="-2" frameY="-8" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0010" x="0" y="1484" width="325" height="495" frameX="-2" frameY="-8" frameWidth="331" frameHeight="503"/>
+	<SubTexture name="KARESHI_singUp0011" x="0" y="1484" width="325" height="495" frameX="-2" frameY="-8" frameWidth="331" frameHeight="503"/>
+</TextureAtlas>

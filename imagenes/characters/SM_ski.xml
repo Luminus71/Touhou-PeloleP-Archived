@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SM_ski.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ski_down0000" x="0" y="0" width="242" height="257" frameX="0" frameY="-4" frameWidth="242" frameHeight="261"/>
+	<SubTexture name="ski_down0001" x="0" y="0" width="242" height="257" frameX="0" frameY="-4" frameWidth="242" frameHeight="261"/>
+	<SubTexture name="ski_down0002" x="242" y="0" width="235" height="261" frameX="-3" frameY="0" frameWidth="242" frameHeight="261"/>
+	<SubTexture name="ski_down0003" x="242" y="0" width="235" height="261" frameX="-3" frameY="0" frameWidth="242" frameHeight="261"/>
+	<SubTexture name="ski_idle0000" x="477" y="0" width="236" height="222"/>
+	<SubTexture name="ski_idle0001" x="477" y="0" width="236" height="222"/>
+	<SubTexture name="ski_idle0002" x="713" y="0" width="236" height="222"/>
+	<SubTexture name="ski_idle0003" x="713" y="0" width="236" height="222"/>
+	<SubTexture name="ski_idle0004" x="949" y="0" width="234" height="220" frameX="-1" frameY="-2" frameWidth="236" frameHeight="222"/>
+	<SubTexture name="ski_idle0005" x="949" y="0" width="234" height="220" frameX="-1" frameY="-2" frameWidth="236" frameHeight="222"/>
+	<SubTexture name="ski_idle0006" x="1183" y="0" width="233" height="219" frameX="-2" frameY="-3" frameWidth="236" frameHeight="222"/>
+	<SubTexture name="ski_idle0007" x="1183" y="0" width="233" height="219" frameX="-2" frameY="-3" frameWidth="236" frameHeight="222"/>
+	<SubTexture name="ski_idle0008" x="1416" y="0" width="233" height="219" frameX="-2" frameY="-3" frameWidth="236" frameHeight="222"/>
+	<SubTexture name="ski_idle0009" x="1416" y="0" width="233" height="219" frameX="-2" frameY="-3" frameWidth="236" frameHeight="222"/>
+	<SubTexture name="ski_idle0010" x="1416" y="0" width="233" height="219" frameX="-2" frameY="-3" frameWidth="236" frameHeight="222"/>
+	<SubTexture name="ski_idle0011" x="1416" y="0" width="233" height="219" frameX="-2" frameY="-3" frameWidth="236" frameHeight="222"/>
+	<SubTexture name="ski_left0000" x="1649" y="0" width="266" height="224"/>
+	<SubTexture name="ski_left0001" x="1649" y="0" width="266" height="224"/>
+	<SubTexture name="ski_left0002" x="0" y="261" width="259" height="223" frameX="-6" frameY="-1" frameWidth="266" frameHeight="224"/>
+	<SubTexture name="ski_left0003" x="0" y="261" width="259" height="223" frameX="-6" frameY="-1" frameWidth="266" frameHeight="224"/>
+	<SubTexture name="ski_miss_down0000" x="259" y="261" width="237" height="261" frameX="0" frameY="0" frameWidth="243" frameHeight="261"/>
+	<SubTexture name="ski_miss_down0001" x="259" y="261" width="237" height="261" frameX="-5" frameY="0" frameWidth="243" frameHeight="261"/>
+	<SubTexture name="ski_miss_down0002" x="259" y="261" width="237" height="261" frameX="-3" frameY="0" frameWidth="243" frameHeight="261"/>
+	<SubTexture name="ski_miss_down0003" x="259" y="261" width="237" height="261" frameX="-3" frameY="0" frameWidth="243" frameHeight="261"/>
+	<SubTexture name="ski_miss_left0000" x="496" y="261" width="272" height="223" frameX="0" frameY="0" frameWidth="278" frameHeight="223"/>
+	<SubTexture name="ski_miss_left0001" x="496" y="261" width="272" height="223" frameX="-6" frameY="0" frameWidth="278" frameHeight="223"/>
+	<SubTexture name="ski_miss_left0002" x="496" y="261" width="272" height="223" frameX="-3" frameY="0" frameWidth="278" frameHeight="223"/>
+	<SubTexture name="ski_miss_left0003" x="496" y="261" width="272" height="223" frameX="-3" frameY="0" frameWidth="278" frameHeight="223"/>
+	<SubTexture name="ski_miss_right0000" x="768" y="261" width="238" height="232" frameX="0" frameY="0" frameWidth="248" frameHeight="232"/>
+	<SubTexture name="ski_miss_right0001" x="768" y="261" width="238" height="232" frameX="-10" frameY="0" frameWidth="248" frameHeight="232"/>
+	<SubTexture name="ski_miss_right0002" x="768" y="261" width="238" height="232" frameX="-5" frameY="0" frameWidth="248" frameHeight="232"/>
+	<SubTexture name="ski_miss_right0003" x="768" y="261" width="238" height="232" frameX="-5" frameY="0" frameWidth="248" frameHeight="232"/>
+	<SubTexture name="ski_miss_up0000" x="1006" y="261" width="238" height="239" frameX="0" frameY="0" frameWidth="245" frameHeight="239"/>
+	<SubTexture name="ski_miss_up0001" x="1244" y="261" width="238" height="239" frameX="-7" frameY="0" frameWidth="245" frameHeight="239"/>
+	<SubTexture name="ski_miss_up0002" x="1244" y="261" width="238" height="239" frameX="-3" frameY="0" frameWidth="245" frameHeight="239"/>
+	<SubTexture name="ski_miss_up0003" x="1244" y="261" width="238" height="239" frameX="-3" frameY="0" frameWidth="245" frameHeight="239"/>
+	<SubTexture name="ski_right0000" x="1482" y="261" width="256" height="225"/>
+	<SubTexture name="ski_right0001" x="1482" y="261" width="256" height="225"/>
+	<SubTexture name="ski_right0002" x="1738" y="261" width="251" height="222" frameX="0" frameY="-3" frameWidth="256" frameHeight="225"/>
+	<SubTexture name="ski_right0003" x="1738" y="261" width="251" height="222" frameX="0" frameY="-3" frameWidth="256" frameHeight="225"/>
+	<SubTexture name="ski_up0000" x="0" y="522" width="238" height="240"/>
+	<SubTexture name="ski_up0001" x="0" y="522" width="238" height="240"/>
+	<SubTexture name="ski_up0002" x="238" y="522" width="238" height="232" frameX="0" frameY="-8" frameWidth="238" frameHeight="240"/>
+	<SubTexture name="ski_up0003" x="238" y="522" width="238" height="232" frameX="0" frameY="-8" frameWidth="238" frameHeight="240"/>
+</TextureAtlas>

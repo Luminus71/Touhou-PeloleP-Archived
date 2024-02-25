@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kirin.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="8D 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="E1 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="8C 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="8E 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="20 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="97 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="D9 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="sa 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="e 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="tsu 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="ki 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="ri 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="n 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="ka 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="ze 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="ha 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="na 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="fu 0000" x="1" y="1" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+</TextureAtlas>

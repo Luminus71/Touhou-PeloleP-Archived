@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FP_remi.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="REMI_down0000" x="0" y="0" width="262" height="375" frameX="0" frameY="-4" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0001" x="0" y="0" width="262" height="375" frameX="0" frameY="-4" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0002" x="262" y="0" width="261" height="375" frameX="-1" frameY="-4" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0003" x="262" y="0" width="261" height="375" frameX="-1" frameY="-4" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0004" x="523" y="0" width="256" height="376" frameX="-5" frameY="-3" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0005" x="523" y="0" width="256" height="376" frameX="-5" frameY="-3" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0006" x="779" y="0" width="253" height="379" frameX="-7" frameY="0" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0007" x="779" y="0" width="253" height="379" frameX="-7" frameY="0" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0008" x="1032" y="0" width="252" height="379" frameX="-7" frameY="0" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0009" x="1032" y="0" width="252" height="379" frameX="-7" frameY="0" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0010" x="1032" y="0" width="252" height="379" frameX="-7" frameY="0" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_down0011" x="1032" y="0" width="252" height="379" frameX="-7" frameY="0" frameWidth="262" frameHeight="379"/>
+	<SubTexture name="REMI_idle0000" x="1284" y="0" width="264" height="420" frameX="-1" frameY="-1" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0001" x="1284" y="0" width="264" height="420" frameX="-1" frameY="-1" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0002" x="1548" y="0" width="272" height="421" frameX="0" frameY="0" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0003" x="1548" y="0" width="272" height="421" frameX="0" frameY="0" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0004" x="0" y="421" width="273" height="421"/>
+	<SubTexture name="REMI_idle0005" x="0" y="421" width="273" height="421"/>
+	<SubTexture name="REMI_idle0006" x="273" y="421" width="268" height="421" frameX="-1" frameY="0" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0007" x="273" y="421" width="268" height="421" frameX="-1" frameY="0" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0008" x="541" y="421" width="262" height="421" frameX="-3" frameY="0" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0009" x="541" y="421" width="262" height="421" frameX="-3" frameY="0" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0010" x="803" y="421" width="260" height="421" frameX="-3" frameY="0" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_idle0011" x="803" y="421" width="260" height="421" frameX="-3" frameY="0" frameWidth="273" frameHeight="421"/>
+	<SubTexture name="REMI_left0000" x="1063" y="421" width="270" height="414" frameX="0" frameY="0" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0001" x="1063" y="421" width="270" height="414" frameX="0" frameY="0" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0002" x="1333" y="421" width="270" height="415"/>
+	<SubTexture name="REMI_left0003" x="1333" y="421" width="270" height="415"/>
+	<SubTexture name="REMI_left0004" x="1603" y="421" width="268" height="413" frameX="-2" frameY="-2" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0005" x="1603" y="421" width="268" height="413" frameX="-2" frameY="-2" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0006" x="0" y="842" width="264" height="412" frameX="-5" frameY="-3" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0007" x="0" y="842" width="264" height="412" frameX="-5" frameY="-3" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0008" x="0" y="842" width="264" height="412" frameX="-5" frameY="-3" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0009" x="0" y="842" width="264" height="412" frameX="-5" frameY="-3" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0010" x="0" y="842" width="264" height="412" frameX="-5" frameY="-3" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_left0011" x="0" y="842" width="264" height="412" frameX="-5" frameY="-3" frameWidth="270" frameHeight="415"/>
+	<SubTexture name="REMI_right0000" x="264" y="842" width="276" height="420" frameX="-1" frameY="-1" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0001" x="264" y="842" width="276" height="420" frameX="-1" frameY="-1" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0002" x="540" y="842" width="276" height="421" frameX="-1" frameY="0" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0003" x="540" y="842" width="276" height="421" frameX="-1" frameY="0" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0004" x="816" y="842" width="275" height="419" frameX="0" frameY="-2" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0005" x="816" y="842" width="275" height="419" frameX="0" frameY="-2" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0006" x="1091" y="842" width="271" height="419" frameX="-1" frameY="-2" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0007" x="1091" y="842" width="271" height="419" frameX="-1" frameY="-2" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0008" x="1362" y="842" width="271" height="419" frameX="-1" frameY="-2" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0009" x="1362" y="842" width="271" height="419" frameX="-1" frameY="-2" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0010" x="1362" y="842" width="271" height="419" frameX="-1" frameY="-2" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_right0011" x="1362" y="842" width="271" height="419" frameX="-1" frameY="-2" frameWidth="277" frameHeight="421"/>
+	<SubTexture name="REMI_up0000" x="1633" y="842" width="284" height="438"/>
+	<SubTexture name="REMI_up0001" x="1633" y="842" width="284" height="438"/>
+	<SubTexture name="REMI_up0002" x="0" y="1280" width="284" height="438"/>
+	<SubTexture name="REMI_up0003" x="0" y="1280" width="284" height="438"/>
+	<SubTexture name="REMI_up0004" x="284" y="1280" width="282" height="435" frameX="0" frameY="-3" frameWidth="284" frameHeight="438"/>
+	<SubTexture name="REMI_up0005" x="284" y="1280" width="282" height="435" frameX="0" frameY="-3" frameWidth="284" frameHeight="438"/>
+	<SubTexture name="REMI_up0006" x="566" y="1280" width="280" height="431" frameX="0" frameY="-7" frameWidth="284" frameHeight="438"/>
+	<SubTexture name="REMI_up0007" x="566" y="1280" width="280" height="431" frameX="0" frameY="-7" frameWidth="284" frameHeight="438"/>
+	<SubTexture name="REMI_up0008" x="846" y="1280" width="279" height="430" frameX="0" frameY="-7" frameWidth="284" frameHeight="438"/>
+	<SubTexture name="REMI_up0009" x="846" y="1280" width="279" height="430" frameX="0" frameY="-7" frameWidth="284" frameHeight="438"/>
+	<SubTexture name="REMI_up0010" x="846" y="1280" width="279" height="430" frameX="0" frameY="-7" frameWidth="284" frameHeight="438"/>
+	<SubTexture name="REMI_up0011" x="846" y="1280" width="279" height="430" frameX="0" frameY="-7" frameWidth="284" frameHeight="438"/>
+</TextureAtlas>

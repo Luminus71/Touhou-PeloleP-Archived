@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SM-gameOver.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ski-confirm-death0000" x="0" y="0" width="354" height="371"/>
+	<SubTexture name="ski-confirm-death0001" x="0" y="0" width="354" height="371"/>
+	<SubTexture name="ski-confirm-death0002" x="354" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0003" x="354" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0004" x="703" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0005" x="703" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0006" x="1052" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0007" x="1052" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0008" x="1052" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0009" x="1052" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0010" x="1401" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0011" x="1401" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0012" x="1401" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0013" x="1401" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0014" x="1401" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0015" x="1401" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0016" x="1750" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0017" x="1750" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0018" x="2099" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0019" x="2099" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0020" x="2448" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0021" x="2448" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0022" x="2797" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0023" x="2797" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0024" x="3146" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0025" x="3146" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0026" x="3495" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0027" x="3495" y="0" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-confirm-death0028" x="0" y="371" width="349" height="371" frameX="-5" frameY="0" frameWidth="354" frameHeight="371"/>
+	<SubTexture name="ski-death0000" x="349" y="371" width="331" height="430"/>
+	<SubTexture name="ski-death0001" x="349" y="371" width="331" height="430"/>
+	<SubTexture name="ski-death0002" x="680" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0003" x="680" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0004" x="1010" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0005" x="1010" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0006" x="1340" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0007" x="1340" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0008" x="1670" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0009" x="1670" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0010" x="2000" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0011" x="2000" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0012" x="2330" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0013" x="2330" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0014" x="2660" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0015" x="2660" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0016" x="2990" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0017" x="2990" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0018" x="3320" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0019" x="3320" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0020" x="3650" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0021" x="3650" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0022" x="0" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0023" x="0" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0024" x="330" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0025" x="330" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0026" x="660" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0027" x="660" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0028" x="990" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0029" x="990" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0030" x="1320" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0031" x="1320" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0032" x="1650" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0033" x="1650" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0034" x="1980" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0035" x="1980" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0036" x="2330" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0037" x="2330" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0038" x="2660" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0039" x="2660" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0040" x="2990" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0041" x="2990" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0042" x="3320" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0043" x="3320" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0044" x="3650" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0045" x="3650" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0046" x="0" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-death0047" x="0" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0000" x="330" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0001" x="330" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0002" x="660" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0003" x="660" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0004" x="990" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0005" x="990" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0006" x="1320" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0007" x="1320" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0008" x="1650" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0009" x="1650" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0010" x="1980" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0011" x="1980" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0012" x="2330" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0013" x="2330" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0014" x="2660" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0015" x="2660" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0016" x="2990" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0017" x="2990" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0018" x="3320" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0019" x="3320" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0020" x="3650" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0021" x="3650" y="371" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0022" x="0" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+	<SubTexture name="ski-loop-death0023" x="0" y="801" width="330" height="430" frameX="0" frameY="0" frameWidth="331" frameHeight="430"/>
+</TextureAtlas>

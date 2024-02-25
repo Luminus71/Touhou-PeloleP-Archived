@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SD-gameOver2-reimu.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="reimu-confirm-death0000" x="0" y="0" width="403" height="121" frameX="-81" frameY="-67" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0001" x="0" y="0" width="403" height="121" frameX="-81" frameY="-67" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0002" x="403" y="0" width="429" height="143" frameX="-67" frameY="-55" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0003" x="403" y="0" width="429" height="143" frameX="-67" frameY="-55" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0004" x="832" y="0" width="453" height="162" frameX="-55" frameY="-46" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0005" x="832" y="0" width="453" height="162" frameX="-55" frameY="-46" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0006" x="1285" y="0" width="475" height="180" frameX="-44" frameY="-37" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0007" x="1285" y="0" width="475" height="180" frameX="-44" frameY="-37" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0008" x="1760" y="0" width="495" height="197" frameX="-34" frameY="-28" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0009" x="1760" y="0" width="495" height="197" frameX="-34" frameY="-28" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0010" x="2255" y="0" width="511" height="210" frameX="-26" frameY="-22" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0011" x="2255" y="0" width="511" height="210" frameX="-26" frameY="-22" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0012" x="2766" y="0" width="524" height="221" frameX="-20" frameY="-16" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0013" x="2766" y="0" width="524" height="221" frameX="-20" frameY="-16" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0014" x="3290" y="0" width="535" height="230" frameX="-14" frameY="-12" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0015" x="3290" y="0" width="535" height="230" frameX="-14" frameY="-12" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0016" x="0" y="230" width="543" height="236" frameX="-10" frameY="-9" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0017" x="0" y="230" width="543" height="236" frameX="-10" frameY="-9" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0018" x="543" y="230" width="551" height="242" frameX="-6" frameY="-6" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0019" x="543" y="230" width="551" height="242" frameX="-6" frameY="-6" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0020" x="1094" y="230" width="553" height="245" frameX="-5" frameY="-4" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0021" x="1094" y="230" width="553" height="245" frameX="-5" frameY="-4" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0022" x="1647" y="230" width="559" height="249" frameX="-2" frameY="-2" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0023" x="1647" y="230" width="559" height="249" frameX="-2" frameY="-2" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0024" x="2206" y="230" width="561" height="251" frameX="-1" frameY="-1" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0025" x="2206" y="230" width="561" height="251" frameX="-1" frameY="-1" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0026" x="2767" y="230" width="561" height="252" frameX="-1" frameY="-1" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0027" x="2767" y="230" width="561" height="252" frameX="-1" frameY="-1" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0028" x="3328" y="230" width="563" height="253" frameX="0" frameY="0" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0029" x="3328" y="230" width="563" height="253" frameX="0" frameY="0" frameWidth="563" frameHeight="254"/>
+	<SubTexture name="reimu-confirm-death0030" x="0" y="483" width="563" height="254"/>
+	<SubTexture name="reimu-confirm-death0031" x="0" y="483" width="563" height="254"/>
+	<SubTexture name="reimu-confirm-death0032" x="563" y="483" width="563" height="254"/>
+	<SubTexture name="reimu-confirm-death0033" x="563" y="483" width="563" height="254"/>
+	<SubTexture name="reimu-death0000" x="1126" y="483" width="453" height="546" frameX="-97" frameY="-93" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0001" x="1579" y="483" width="478" height="519" frameX="-86" frameY="-107" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0002" x="2057" y="483" width="522" height="595" frameX="-64" frameY="-70" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0003" x="2057" y="483" width="522" height="595" frameX="-64" frameY="-70" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0004" x="2579" y="483" width="564" height="641" frameX="-43" frameY="-47" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0005" x="2579" y="483" width="564" height="641" frameX="-43" frameY="-47" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0006" x="3143" y="483" width="595" height="675" frameX="-28" frameY="-30" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0007" x="3143" y="483" width="595" height="675" frameX="-28" frameY="-30" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0008" x="0" y="1158" width="619" height="702" frameX="-16" frameY="-17" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0009" x="0" y="1158" width="619" height="702" frameX="-16" frameY="-17" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0010" x="619" y="1158" width="634" height="719" frameX="-8" frameY="-8" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0011" x="619" y="1158" width="634" height="719" frameX="-8" frameY="-8" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0012" x="1253" y="1158" width="642" height="728" frameX="-4" frameY="-4" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0013" x="1253" y="1158" width="642" height="728" frameX="-4" frameY="-4" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0014" x="1895" y="1158" width="648" height="734" frameX="-1" frameY="-1" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0015" x="1895" y="1158" width="648" height="734" frameX="-1" frameY="-1" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="reimu-death0016" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0017" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0018" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0019" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0020" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0021" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0022" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0023" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0024" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0025" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0026" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0027" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0028" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0029" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0030" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0031" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0032" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0033" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0034" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0035" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0036" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0037" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0038" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0039" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0040" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0041" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0042" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0043" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0044" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0045" x="2543" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0046" x="3193" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0047" x="3193" y="1158" width="650" height="735"/>
+	<SubTexture name="reimu-death0048" x="0" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-death0049" x="0" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-death0050" x="650" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-death0051" x="650" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-death0052" x="1300" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-death0053" x="1300" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-death0054" x="1950" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-death0055" x="1950" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-death0056" x="2600" y="1893" width="650" height="735"/>
+	<SubTexture name="reimu-loop-death0000" x="2600" y="1893" width="650" height="735"/>
+</TextureAtlas>

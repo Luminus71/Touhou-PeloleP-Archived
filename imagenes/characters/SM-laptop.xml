@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SM-laptop.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laptop10000" x="0" y="0" width="444" height="195"/>
+	<SubTexture name="laptop10001" x="0" y="0" width="444" height="195"/>
+	<SubTexture name="laptop10002" x="444" y="0" width="444" height="195"/>
+	<SubTexture name="laptop10003" x="444" y="0" width="444" height="195"/>
+	<SubTexture name="laptop10004" x="0" y="195" width="444" height="195"/>
+	<SubTexture name="laptop10005" x="0" y="195" width="444" height="195"/>
+	<SubTexture name="laptop10006" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop10007" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop10008" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop10009" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop10010" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop10011" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop20000" x="444" y="195" width="444" height="195"/>
+	<SubTexture name="laptop20001" x="444" y="195" width="444" height="195"/>
+	<SubTexture name="laptop20002" x="444" y="195" width="444" height="195"/>
+	<SubTexture name="laptop20003" x="444" y="195" width="444" height="195"/>
+	<SubTexture name="laptop20004" x="444" y="195" width="444" height="195"/>
+	<SubTexture name="laptop20005" x="444" y="195" width="444" height="195"/>
+	<SubTexture name="laptop20006" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop20007" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop20008" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop20009" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop20010" x="0" y="390" width="444" height="195"/>
+	<SubTexture name="laptop20011" x="0" y="390" width="444" height="195"/>
+</TextureAtlas>
