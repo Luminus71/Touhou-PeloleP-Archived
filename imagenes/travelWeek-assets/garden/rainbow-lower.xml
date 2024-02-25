@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rainbow-lower.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rainbow-lower0000" x="0" y="0" width="2266" height="267" frameX="0" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0001" x="0" y="0" width="2266" height="267" frameX="-20" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0002" x="0" y="0" width="2266" height="267" frameX="-40" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0003" x="0" y="0" width="2266" height="267" frameX="-60" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0004" x="0" y="0" width="2266" height="267" frameX="-80" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0005" x="0" y="0" width="2266" height="267" frameX="-100" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0006" x="0" y="0" width="2266" height="267" frameX="-121" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0007" x="0" y="267" width="2265" height="267" frameX="-141" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0008" x="0" y="267" width="2265" height="267" frameX="-161" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0009" x="0" y="267" width="2265" height="267" frameX="-181" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0010" x="0" y="267" width="2265" height="267" frameX="-201" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0011" x="0" y="267" width="2265" height="267" frameX="-221" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0012" x="0" y="267" width="2265" height="267" frameX="-241" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0013" x="0" y="534" width="2265" height="267" frameX="-261" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0014" x="0" y="534" width="2265" height="267" frameX="-281" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0015" x="0" y="534" width="2265" height="267" frameX="-301" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0016" x="0" y="801" width="2265" height="267" frameX="-321" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0017" x="0" y="801" width="2265" height="267" frameX="-341" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0018" x="0" y="801" width="2265" height="267" frameX="-361" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0019" x="0" y="801" width="2265" height="267" frameX="-381" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0020" x="0" y="801" width="2265" height="267" frameX="-402" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0021" x="0" y="1068" width="2264" height="267" frameX="-422" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0022" x="0" y="1068" width="2264" height="267" frameX="-442" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0023" x="0" y="1068" width="2264" height="267" frameX="-462" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0024" x="0" y="1068" width="2264" height="267" frameX="-482" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0025" x="0" y="1068" width="2264" height="267" frameX="-502" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0026" x="0" y="1068" width="2264" height="267" frameX="-522" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0027" x="0" y="1335" width="2264" height="267" frameX="-542" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0028" x="0" y="1335" width="2264" height="267" frameX="-562" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0029" x="0" y="1335" width="2264" height="267" frameX="-582" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0030" x="0" y="1335" width="2264" height="267" frameX="-602" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0031" x="0" y="1335" width="2264" height="267" frameX="-622" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0032" x="0" y="1335" width="2264" height="267" frameX="-642" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0033" x="0" y="1335" width="2264" height="267" frameX="-662" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0034" x="0" y="1335" width="2264" height="267" frameX="-683" frameY="0" frameWidth="2966" frameHeight="267"/>
+	<SubTexture name="rainbow-lower0035" x="0" y="1602" width="2263" height="267" frameX="-703" frameY="0" frameWidth="2966" frameHeight="267"/>
+</TextureAtlas>

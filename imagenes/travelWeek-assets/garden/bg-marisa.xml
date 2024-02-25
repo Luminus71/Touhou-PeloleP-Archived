@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg-marisa.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marisa-ze0000" x="0" y="0" width="405" height="520" frameX="0" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0001" x="0" y="0" width="405" height="520" frameX="0" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0002" x="405" y="0" width="405" height="522" frameX="-1" frameY="0" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0003" x="405" y="0" width="405" height="522" frameX="-1" frameY="0" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0004" x="810" y="0" width="404" height="520" frameX="-1" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0005" x="810" y="0" width="404" height="520" frameX="-1" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0006" x="1214" y="0" width="403" height="520" frameX="-2" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0007" x="1214" y="0" width="403" height="520" frameX="-2" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0008" x="1617" y="0" width="402" height="520" frameX="-2" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0009" x="1617" y="0" width="402" height="520" frameX="-2" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0010" x="1617" y="0" width="402" height="520" frameX="-2" frameY="-2" frameWidth="406" frameHeight="522"/>
+	<SubTexture name="marisa-ze0011" x="1617" y="0" width="402" height="520" frameX="-2" frameY="-2" frameWidth="406" frameHeight="522"/>
+</TextureAtlas>
