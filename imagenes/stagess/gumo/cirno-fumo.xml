@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cirno-fumo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cirno fumo0000" x="0" y="0" width="462" height="498"/>
+	<SubTexture name="cirno fumo0001" x="462" y="0" width="462" height="498"/>
+	<SubTexture name="cirno fumo0002" x="924" y="0" width="462" height="498"/>
+	<SubTexture name="cirno fumo0003" x="1386" y="0" width="462" height="498"/>
+	<SubTexture name="cirno fumo0004" x="0" y="498" width="462" height="498"/>
+	<SubTexture name="cirno fumo0005" x="462" y="498" width="462" height="498"/>
+	<SubTexture name="cirno fumo0006" x="924" y="498" width="462" height="498"/>
+	<SubTexture name="cirno fumo0007" x="1386" y="498" width="462" height="498"/>
+	<SubTexture name="cirno fumo0008" x="0" y="996" width="462" height="498"/>
+	<SubTexture name="cirno fumo0009" x="462" y="996" width="462" height="498"/>
+	<SubTexture name="cirno fumo0010" x="924" y="996" width="462" height="498"/>
+</TextureAtlas>

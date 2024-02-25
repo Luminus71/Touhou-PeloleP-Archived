@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spooky-rick.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="out_rick0000" x="0" y="0" width="517" height="598" frameX="0" frameY="0" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0001" x="0" y="0" width="517" height="598" frameX="0" frameY="0" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0002" x="0" y="0" width="517" height="598" frameX="0" frameY="0" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0003" x="0" y="0" width="517" height="598" frameX="0" frameY="0" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0004" x="0" y="0" width="517" height="598" frameX="0" frameY="-4" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0005" x="0" y="0" width="517" height="598" frameX="0" frameY="-4" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0006" x="0" y="0" width="517" height="598" frameX="0" frameY="-4" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0007" x="0" y="0" width="517" height="598" frameX="0" frameY="-4" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0008" x="0" y="0" width="517" height="598" frameX="0" frameY="-8" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0009" x="0" y="0" width="517" height="598" frameX="0" frameY="-8" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0010" x="0" y="0" width="517" height="598" frameX="0" frameY="-8" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0011" x="0" y="0" width="517" height="598" frameX="0" frameY="-8" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0012" x="0" y="0" width="517" height="598" frameX="0" frameY="-4" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0013" x="0" y="0" width="517" height="598" frameX="0" frameY="-4" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0014" x="0" y="0" width="517" height="598" frameX="0" frameY="-4" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="out_rick0015" x="0" y="0" width="517" height="598" frameX="0" frameY="-4" frameWidth="517" frameHeight="606"/>
+	<SubTexture name="rick0000" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0001" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0002" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0003" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0004" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0005" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0006" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0007" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0008" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0009" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0010" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0011" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0012" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0013" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0014" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0015" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0016" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0017" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0018" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0019" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0020" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0021" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0022" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0023" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0024" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0025" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0026" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0027" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0028" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0029" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0030" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0031" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0032" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0033" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0034" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0035" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0036" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0037" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0038" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0039" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0040" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0041" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0042" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0043" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0044" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0045" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0046" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0047" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0048" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0049" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0050" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0051" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0052" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0053" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0054" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0055" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0056" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0057" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0058" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0059" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0060" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0061" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0062" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0063" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0064" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0065" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0066" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0067" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0068" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0069" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0070" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0071" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0072" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0073" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0074" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0075" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0076" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0077" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0078" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0079" x="517" y="0" width="510" height="618"/>
+	<SubTexture name="rick0080" x="1027" y="0" width="510" height="618"/>
+	<SubTexture name="rick0081" x="1027" y="0" width="510" height="618"/>
+	<SubTexture name="rick0082" x="1027" y="0" width="510" height="618"/>
+	<SubTexture name="rick0083" x="1027" y="0" width="510" height="618"/>
+</TextureAtlas>

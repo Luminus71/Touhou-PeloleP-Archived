@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spooky-cirno.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cirno0000" x="0" y="0" width="240" height="354" frameX="0" frameY="-3" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0001" x="0" y="0" width="240" height="354" frameX="0" frameY="-3" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0002" x="240" y="0" width="242" height="357"/>
+	<SubTexture name="cirno0003" x="240" y="0" width="242" height="357"/>
+	<SubTexture name="cirno0004" x="482" y="0" width="238" height="355" frameX="0" frameY="-2" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0005" x="482" y="0" width="238" height="355" frameX="0" frameY="-2" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0006" x="720" y="0" width="231" height="352" frameX="-1" frameY="-5" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0007" x="720" y="0" width="231" height="352" frameX="-1" frameY="-5" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0008" x="0" y="357" width="230" height="352" frameX="-1" frameY="-5" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0009" x="0" y="357" width="230" height="352" frameX="-1" frameY="-5" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0010" x="0" y="357" width="230" height="352" frameX="-1" frameY="-5" frameWidth="242" frameHeight="357"/>
+	<SubTexture name="cirno0011" x="0" y="357" width="230" height="352" frameX="-1" frameY="-5" frameWidth="242" frameHeight="357"/>
+</TextureAtlas>
