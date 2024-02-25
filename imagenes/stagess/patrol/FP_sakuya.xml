@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FP_sakuya.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sakuya0000" x="0" y="0" width="263" height="466" frameX="-3" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0001" x="0" y="0" width="263" height="466" frameX="-3" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0002" x="263" y="0" width="265" height="466" frameX="-1" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0003" x="263" y="0" width="265" height="466" frameX="-1" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0004" x="528" y="0" width="266" height="466"/>
+	<SubTexture name="sakuya0005" x="528" y="0" width="266" height="466"/>
+	<SubTexture name="sakuya0006" x="0" y="466" width="265" height="466" frameX="-1" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0007" x="0" y="466" width="265" height="466" frameX="-1" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0008" x="265" y="466" width="263" height="466" frameX="-3" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0009" x="265" y="466" width="263" height="466" frameX="-3" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0010" x="528" y="466" width="263" height="466" frameX="-3" frameY="0" frameWidth="266" frameHeight="466"/>
+	<SubTexture name="sakuya0011" x="528" y="466" width="263" height="466" frameX="-3" frameY="0" frameWidth="266" frameHeight="466"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="power-train.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="power0000" x="0" y="0" width="210" height="589" frameX="0" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0001" x="0" y="0" width="210" height="589" frameX="-141" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0002" x="0" y="0" width="210" height="589" frameX="-283" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0003" x="0" y="0" width="210" height="589" frameX="-425" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0004" x="0" y="0" width="210" height="589" frameX="-567" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0005" x="0" y="0" width="210" height="589" frameX="-709" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0006" x="0" y="0" width="210" height="589" frameX="-851" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0007" x="0" y="0" width="210" height="589" frameX="-992" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0008" x="0" y="0" width="210" height="589" frameX="-1134" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0009" x="0" y="0" width="210" height="589" frameX="-1276" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0010" x="0" y="0" width="210" height="589" frameX="-1418" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0011" x="0" y="0" width="210" height="589" frameX="-1560" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0012" x="0" y="0" width="210" height="589" frameX="-1702" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0013" x="0" y="0" width="210" height="589" frameX="-1844" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0014" x="0" y="0" width="210" height="589" frameX="-1985" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0015" x="0" y="0" width="210" height="589" frameX="-2127" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0016" x="0" y="0" width="210" height="589" frameX="-2269" frameY="0" frameWidth="2622" frameHeight="589"/>
+	<SubTexture name="power0017" x="0" y="0" width="210" height="589" frameX="-2411" frameY="0" frameWidth="2622" frameHeight="589"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="remi-beat.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beat0000" x="0" y="0" width="545" height="715" frameX="-3" frameY="-3" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0001" x="0" y="0" width="545" height="715" frameX="-3" frameY="-3" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0002" x="545" y="0" width="545" height="715" frameX="-3" frameY="-3" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0003" x="545" y="0" width="545" height="715" frameX="-3" frameY="-3" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0004" x="1090" y="0" width="547" height="717" frameX="-1" frameY="-1" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0005" x="1090" y="0" width="547" height="717" frameX="-1" frameY="-1" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0006" x="0" y="717" width="548" height="718"/>
+	<SubTexture name="beat0007" x="0" y="717" width="548" height="718"/>
+	<SubTexture name="beat0008" x="548" y="717" width="548" height="717" frameX="0" frameY="0" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0009" x="548" y="717" width="548" height="717" frameX="0" frameY="0" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0010" x="1096" y="717" width="548" height="717" frameX="0" frameY="0" frameWidth="548" frameHeight="718"/>
+	<SubTexture name="beat0011" x="1096" y="717" width="548" height="717" frameX="0" frameY="0" frameWidth="548" frameHeight="718"/>
+</TextureAtlas>

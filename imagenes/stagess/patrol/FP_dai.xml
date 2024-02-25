@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FP_dai.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="daiyousei0000" x="0" y="0" width="314" height="432" frameX="-2" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0001" x="0" y="0" width="314" height="432" frameX="-2" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0002" x="314" y="0" width="315" height="431" frameX="0" frameY="-2" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0003" x="314" y="0" width="315" height="431" frameX="0" frameY="-2" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0004" x="629" y="0" width="314" height="430" frameX="0" frameY="-3" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0005" x="629" y="0" width="314" height="430" frameX="0" frameY="-3" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0006" x="943" y="0" width="315" height="431" frameX="-1" frameY="-2" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0007" x="943" y="0" width="315" height="431" frameX="-1" frameY="-2" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0008" x="1258" y="0" width="314" height="432" frameX="-2" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0009" x="1258" y="0" width="314" height="432" frameX="-2" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0010" x="1572" y="0" width="313" height="432" frameX="-3" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0011" x="1572" y="0" width="313" height="432" frameX="-3" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0012" x="0" y="432" width="313" height="432" frameX="-3" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0013" x="0" y="432" width="313" height="432" frameX="-3" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0014" x="313" y="432" width="316" height="433" frameX="-4" frameY="0" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0015" x="313" y="432" width="316" height="433" frameX="-4" frameY="0" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0016" x="629" y="432" width="316" height="433" frameX="-4" frameY="0" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0017" x="629" y="432" width="316" height="433" frameX="-4" frameY="0" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0018" x="945" y="432" width="316" height="433" frameX="-4" frameY="0" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0019" x="945" y="432" width="316" height="433" frameX="-4" frameY="0" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0020" x="1261" y="432" width="314" height="432" frameX="-3" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0021" x="1261" y="432" width="314" height="432" frameX="-3" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0022" x="1572" y="0" width="313" height="432" frameX="-3" frameY="-1" frameWidth="320" frameHeight="433"/>
+	<SubTexture name="daiyousei0023" x="1572" y="0" width="313" height="432" frameX="-3" frameY="-1" frameWidth="320" frameHeight="433"/>
+</TextureAtlas>

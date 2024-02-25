@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lv_nene.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nene0000" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0001" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0002" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0003" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0004" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0005" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0006" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0007" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0008" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0009" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0010" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0011" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0012" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0013" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0014" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0015" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0016" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0017" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0018" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0019" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0020" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0021" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0022" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0023" x="195" y="0" width="195" height="351"/>
+	<SubTexture name="nene0024" x="195" y="0" width="195" height="351"/>
+	<SubTexture name="nene0025" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0026" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0027" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0028" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0029" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0030" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0031" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0032" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0033" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0034" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0035" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0036" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0037" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0038" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0039" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0040" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0041" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0042" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0043" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0044" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0045" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0046" x="0" y="0" width="195" height="351"/>
+	<SubTexture name="nene0047" x="0" y="0" width="195" height="351"/>
+</TextureAtlas>
