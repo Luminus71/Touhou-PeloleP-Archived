@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fairyPink.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fairyPink0000" x="0" y="0" width="295" height="452" frameX="-90" frameY="0" frameWidth="500" frameHeight="492"/>
+	<SubTexture name="fairyPink0001" x="295" y="0" width="408" height="476" frameX="-47" frameY="0" frameWidth="500" frameHeight="492"/>
+	<SubTexture name="fairyPink0002" x="0" y="476" width="500" height="492"/>
+	<SubTexture name="fairyPink0003" x="500" y="476" width="380" height="471" frameX="-61" frameY="0" frameWidth="500" frameHeight="492"/>
+</TextureAtlas>

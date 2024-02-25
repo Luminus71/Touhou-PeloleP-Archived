@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fairyBlue2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fairyBlue20000" x="0" y="0" width="321" height="390" frameX="-46" frameY="0" frameWidth="404" frameHeight="390"/>
+	<SubTexture name="fairyBlue20001" x="321" y="0" width="268" height="390" frameX="-62" frameY="0" frameWidth="404" frameHeight="390"/>
+	<SubTexture name="fairyBlue20002" x="589" y="0" width="335" height="390" frameX="-41" frameY="0" frameWidth="404" frameHeight="390"/>
+	<SubTexture name="fairyBlue20003" x="0" y="390" width="404" height="390"/>
+</TextureAtlas>
