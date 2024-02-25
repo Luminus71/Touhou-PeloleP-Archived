@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="travel-quote.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="quote idle0000" x="0" y="0" width="833" height="64"/>
+	<SubTexture name="quote intro0000" x="0" y="64" width="833" height="64" frameX="-36" frameY="-9" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0001" x="0" y="128" width="888" height="33" frameX="-5" frameY="-22" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0002" x="0" y="161" width="888" height="33" frameX="-5" frameY="-18" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0003" x="0" y="194" width="833" height="64" frameX="-36" frameY="0" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0004" x="0" y="258" width="899" height="47" frameX="-8" frameY="-10" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0005" x="0" y="305" width="897" height="1" frameX="0" frameY="-36" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0006" x="0" y="306" width="888" height="46" frameX="-13" frameY="-17" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0007" x="0" y="352" width="833" height="65" frameX="-36" frameY="-9" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0008" x="0" y="417" width="865" height="57" frameX="-18" frameY="-12" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0009" x="0" y="474" width="889" height="34" frameX="-5" frameY="-22" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0010" x="0" y="508" width="897" height="1" frameX="0" frameY="-36" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0011" x="0" y="509" width="889" height="33" frameX="-5" frameY="-18" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0012" x="0" y="542" width="865" height="56" frameX="-18" frameY="-5" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0013" x="0" y="598" width="833" height="65" frameX="-36" frameY="0" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0014" x="0" y="663" width="841" height="62" frameX="-33" frameY="-2" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0015" x="0" y="725" width="865" height="53" frameX="-23" frameY="-7" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0016" x="0" y="778" width="888" height="39" frameX="-13" frameY="-15" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0017" x="0" y="817" width="909" height="21" frameX="-4" frameY="-25" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0018" x="0" y="838" width="897" height="1" frameX="0" frameY="-36" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0019" x="0" y="839" width="899" height="20" frameX="-8" frameY="-28" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0020" x="0" y="859" width="896" height="39" frameX="-9" frameY="-20" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0021" x="0" y="898" width="868" height="53" frameX="-21" frameY="-14" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0022" x="0" y="951" width="851" height="62" frameX="-29" frameY="-10" frameWidth="913" frameHeight="74"/>
+	<SubTexture name="quote intro0023" x="0" y="0" width="833" height="64" frameX="-36" frameY="-9" frameWidth="833" frameHeight="64"/>
+</TextureAtlas>

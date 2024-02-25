@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fairy2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fairy20000" x="0" y="0" width="185" height="300" frameX="-17" frameY="0" frameWidth="233" frameHeight="300"/>
+	<SubTexture name="fairy20001" x="0" y="0" width="185" height="300" frameX="-17" frameY="0" frameWidth="233" frameHeight="300"/>
+	<SubTexture name="fairy20002" x="185" y="0" width="185" height="300" frameX="-17" frameY="0" frameWidth="233" frameHeight="300"/>
+	<SubTexture name="fairy20003" x="185" y="0" width="185" height="300" frameX="-17" frameY="0" frameWidth="233" frameHeight="300"/>
+	<SubTexture name="fairy20004" x="370" y="0" width="185" height="300" frameX="-17" frameY="0" frameWidth="233" frameHeight="300"/>
+	<SubTexture name="fairy20005" x="370" y="0" width="185" height="300" frameX="-17" frameY="0" frameWidth="233" frameHeight="300"/>
+	<SubTexture name="fairy20006" x="555" y="0" width="233" height="300"/>
+	<SubTexture name="fairy20007" x="555" y="0" width="233" height="300"/>
+</TextureAtlas>
