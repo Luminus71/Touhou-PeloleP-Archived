@@ -1,0 +1,11 @@
+{
+	"idle_anim": "fairies",
+	"image": "menu-cirno-n-dai",
+	"position": [
+		140,
+		5
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "fairies"
+}

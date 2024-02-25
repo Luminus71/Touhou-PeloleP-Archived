@@ -1,0 +1,11 @@
+{
+	"idle_anim": "meirin",
+	"image": "menu-meiling",
+	"position": [
+		50,
+		0
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "meirin"
+}

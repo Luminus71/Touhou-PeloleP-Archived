@@ -1,0 +1,11 @@
+{
+	"idle_anim": "scarlet",
+	"image": "menu-spooky-sisters",
+	"position": [
+		160,
+		0
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "scarlet"
+}

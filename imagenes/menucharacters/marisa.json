@@ -1,0 +1,11 @@
+{
+	"idle_anim": "daze",
+	"image": "menu-marisa",
+	"position": [
+		-80,
+		6
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "daze"
+}

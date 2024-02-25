@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "subway",
+	"idle_anim": "kan-and-kar",
+	"position": [
+		60,
+		0
+	],
+	"scale": 1,
+	"image": "menu-kan-n-kar",
+	"flipX": false
+}
