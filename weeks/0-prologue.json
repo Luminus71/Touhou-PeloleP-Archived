@@ -1,0 +1,41 @@
+{
+	"storyName": "How it Started",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "sm",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Gensomooru",
+			"spooky",
+			[
+				20,
+				33,
+				53
+			]
+		],
+		[
+			"Lowest Vibes",
+			"lv",
+			[
+				26,
+				0,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"spooky-sisters",
+		"couple",
+		"spooky-kidz"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Prologue"
+}

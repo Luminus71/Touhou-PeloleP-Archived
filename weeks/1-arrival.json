@@ -1,0 +1,41 @@
+{
+	"storyName": "Maiden and Youkais from another world",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "sm",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"rumia",
+		"shrine",
+		"reimu"
+	],
+	"songs": [
+		[
+			"Crimson Dream",
+			"reimu",
+			[
+				185,
+				15,
+				11
+			]
+		],
+		[
+			"Spiritual Dusk",
+			"rumia",
+			[
+				40,
+				20,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Arrival to Gensokyo",
+	"hiddenUntilUnlocked": false
+}

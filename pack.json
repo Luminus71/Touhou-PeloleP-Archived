@@ -1,0 +1,7 @@
+{
+	"name": "Touhou Melopoeia 0.6.X Port.",
+	"description": "Blusagi's touhou mod but for 0.6.X Versions of Psych Engine.",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [170, 0, 121]
+}
