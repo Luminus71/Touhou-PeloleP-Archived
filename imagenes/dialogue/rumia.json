@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		140
+	],
+	"scale": 1.75,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "rumia-normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "rumia-excited",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "rumia-pout",
+			"anim": "pout",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "rumia-smile",
+			"anim": "smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				45
+			],
+			"idle_name": "rumia-beaten",
+			"anim": "beaten",
+			"loop_offsets": [
+				0,
+				45
+			]
+		}
+	],
+	"image": "rumia-dialogue"
+}

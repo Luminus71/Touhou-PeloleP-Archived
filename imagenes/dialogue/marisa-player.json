@@ -1,0 +1,76 @@
+{
+	"position": [
+		230,
+		80
+	],
+	"dialogue_pos": "right",
+	"scale": 1.75,
+	"image": "marisa-dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "marisa-normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "marisa-smile",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sweat",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "marisa-sweat",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "marisa-angry",
+			"loop_name": ""
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "marisa-neutral",
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

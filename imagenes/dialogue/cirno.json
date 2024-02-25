@@ -1,0 +1,37 @@
+{
+	"position": [
+		150,
+		110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.75,
+	"image": "cirno-dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "cirno-normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sweat",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "cirno-sweat"
+		}
+	]
+}

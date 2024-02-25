@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		40
+	],
+	"scale": 1.75,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kanojo-normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "kanojo-dialogue"
+}

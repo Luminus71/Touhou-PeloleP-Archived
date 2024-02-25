@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marisa-dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marisa-angry0000" x="0" y="0" width="575" height="530"/>
+	<SubTexture name="marisa-neutral0000" x="575" y="0" width="575" height="530"/>
+	<SubTexture name="marisa-normal0000" x="1150" y="0" width="575" height="530"/>
+	<SubTexture name="marisa-smile0000" x="0" y="530" width="575" height="530"/>
+	<SubTexture name="marisa-sweat0000" x="575" y="530" width="575" height="530"/>
+</TextureAtlas>

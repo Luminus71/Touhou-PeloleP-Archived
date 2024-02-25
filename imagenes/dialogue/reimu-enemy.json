@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		170,
+		100
+	],
+	"scale": 1.75,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "reimu-normal",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sweat",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "reimu-sweat",
+			"loop_name": ""
+		},
+		{
+			"loop_offsets": [
+				2,
+				-11
+			],
+			"anim": "pensive",
+			"idle_offsets": [
+				2,
+				-11
+			],
+			"loop_name": "",
+			"idle_name": "reimu-pensive"
+		},
+		{
+			"loop_offsets": [
+				2,
+				-11
+			],
+			"anim": "serious",
+			"idle_offsets": [
+				2,
+				-11
+			],
+			"loop_name": "",
+			"idle_name": "reimu-serious"
+		}
+	],
+	"image": "reimu-dialogue"
+}

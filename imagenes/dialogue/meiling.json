@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		40
+	],
+	"scale": 1.75,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "meiling-normal",
+			"loop_name": ""
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "meiling-annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "meiling-dialogue"
+}

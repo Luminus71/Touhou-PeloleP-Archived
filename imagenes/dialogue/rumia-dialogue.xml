@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rumia-dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rumia-beaten0000" x="0" y="0" width="343" height="456"/>
+	<SubTexture name="rumia-excited0000" x="343" y="0" width="343" height="427"/>
+	<SubTexture name="rumia-normal0000" x="686" y="0" width="343" height="419"/>
+	<SubTexture name="rumia-pout0000" x="1029" y="0" width="343" height="419"/>
+	<SubTexture name="rumia-smile0000" x="1372" y="0" width="343" height="419"/>
+</TextureAtlas>

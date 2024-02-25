@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="reimu-dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="reimu-normal0000" x="0" y="0" width="294" height="515"/>
+	<SubTexture name="reimu-pensive0000" x="294" y="0" width="285" height="504"/>
+	<SubTexture name="reimu-serious0000" x="579" y="0" width="285" height="504"/>
+	<SubTexture name="reimu-sweat0000" x="864" y="0" width="294" height="515"/>
+</TextureAtlas>

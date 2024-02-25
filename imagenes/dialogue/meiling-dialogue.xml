@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meiling-dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="meiling-annoyed0000" x="0" y="0" width="327" height="577"/>
+	<SubTexture name="meiling-normal0000" x="327" y="0" width="327" height="577"/>
+</TextureAtlas>
