@@ -1,0 +1,1 @@
+Drop your stages, notes images in this folder!
